@@ -20,9 +20,9 @@ class MainScreen extends StatelessWidget {
                 onPressed: () =>
                     Navigator.pushNamed(context, '/WeatherAppMyHomePage'),
                 child: Text('Weather app')),
-            ElevatedButton(
-                onPressed: () => Navigator.pushNamed(context, '/StatesScreen'),
-                child: Text('State Management')),
+            // ElevatedButton(
+            //     onPressed: () => Navigator.pushNamed(context, '/StatesScreen'),
+            //     child: Text('State Management')),
           ],
         ),
       ),
