@@ -4,9 +4,11 @@ Welcome! This is my app where I try to do something.
 The following are listed what I used.
 
 ### Animations
-Demo video - https://drive.google.com/open?id=1RA7a7FzKxywHphYG0AhKy471mKmCYZOX
 
 #### Implicit animations
+
+https://user-images.githubusercontent.com/67806492/141289992-759f507c-5772-4fec-a7ce-30ae6ac0123f.mov
+
 - Custom Fonts
 - AnimatedContainer
 - AnimatedAlign
@@ -18,10 +20,18 @@ Demo video - https://drive.google.com/open?id=1RA7a7FzKxywHphYG0AhKy471mKmCYZOX
 Done. - this means I figure out everything I wanted.
 
 #### Tween Animation Builder
+
+
+https://user-images.githubusercontent.com/67806492/141290103-e7668d07-8910-43a0-8025-c7f98139be5b.mov
+
+
 - TweenAnimationBuilder
 Done.
 
 #### Built-In Explicit Animation
+
+https://user-images.githubusercontent.com/67806492/141290770-b25b8632-1b20-4aa5-a96d-f75a11bf5851.mov
+
 - AnimatedController
 - RotatationTransition
 - SizeTransition
